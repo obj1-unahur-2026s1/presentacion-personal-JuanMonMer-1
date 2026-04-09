@@ -4,8 +4,8 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Juan Ignacio Montiel Merino
+- Vivo en Moron, Buenos Aires
 
 
 ### Otra Información
